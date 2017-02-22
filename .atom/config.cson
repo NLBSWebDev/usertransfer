@@ -1,0 +1,10 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "ee8b8caa-baa1-44a0-bde0-db0e30755295"
+  core:
+    openEmptyEditorOnStart: false
+  editor:
+    softWrap: true
+  "exception-reporting":
+    userId: "bb7e70f6-9638-a627-78c6-603e7f6e7be6"
